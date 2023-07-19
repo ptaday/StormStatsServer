@@ -1,10 +1,6 @@
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
-
-package Homework6;
 
 /**
  * This class represents a storm with a name , precipitation, windSpeed and date.
