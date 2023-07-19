@@ -49,6 +49,8 @@ Run the StormStatServer application.
 
 Follow the on-screen prompts to interact with the storm database. The menu-based interface allows you to add, remove, and edit storms. The database will be saved automatically at the end of the program and loaded from the file if it exists on startup.
 
+Keep in my mind to create a package name and include the package name in all the classes.
+
 ## Required Classes
 
 ### Storm
