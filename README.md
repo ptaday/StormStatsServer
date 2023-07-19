@@ -39,11 +39,11 @@ $ cd StormStatServer
 ## Usage
 To compile 
 ```bash
-$ javac Main.java
+$ javac StormStatsServer.java
 ```
 Run the DeliveryListManager application from the command line.
 ```bash
-$ java Main
+$ java StormStatsServer
 ```
 Run the StormStatServer application.
 
